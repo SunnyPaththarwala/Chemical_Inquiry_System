@@ -1,0 +1,6 @@
+Flask
+pandas
+openpyxl
+xlrd
+email-validator
+python-dotenv
